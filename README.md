@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Beshoy Agaiby
 
-🎯 **Frontend Web Developer** from **Egypt**
+🎯 **MERN STACK Developer** from **Egypt**
 
 ---
 
 ## 🧠 About Me
-I'm a passionate **frontend developer** who loves creating responsive and modern web applications.  
+I'm a passionate **frontend developer , backend development** who loves creating responsive and modern web applications.  
 I focus on writing clean, efficient, and maintainable code.  
-Currently, I’m starting to learn **backend development** to become a full-stack developer soon.
+Currently, I’m a full-stack developer soon.
 
 ---
 
 ## 🛠️ Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, jQuery, TypeScript, and other libraries.  
-- **Currently Learning:** Backend development (Node.js & APIs soon)  
+- **Complete Learning:** Backend development (Node.js & APIs soon)  
 - **Tools I Use:** VS Code, Git, GitHub, Chrome DevTools  
 
 ---
