@@ -184,6 +184,7 @@ I'm continuously working on improving my knowledge in:
 * 💼 [LinkedIn](https://www.linkedin.com/in/beshoy-agaiby-20a730355)
 * 🌍 [Portfolio](https://my-portfolio-murex-ten-89.vercel.app/)
 * 📘 [Facebook](https://www.facebook.com/share/1JBkTqwT1s/)
+* 📘 [ViewCV](https://github.com/BeshoyAgaiby/CV/blob/main/Beshoy%20Agaiby%20Gamal.pdf)
 * 🐙 [GitHub](https://github.com/BeshoyAgaiby)
 
 ---
